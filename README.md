@@ -1,6 +1,7 @@
 # Project Name
-> Outline a brief description of your project.
-
+> Lending Club Group Case Study
+Group Members:  Abhishek Tiwari (Group Facilitator)
+                Shishir Pandey (Team Member)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,38 +12,36 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This analysis will give an idea about how real business problems are solved using EDA. Is this analysis we not only apply the various EDA techniques, but will also understand the risk analytics in banking and financial services.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loans should be given to higher income customers
+- In Nebraska, based on small dataset the recommendation is to not give loans.
+- Since the years of experience has very little correlation with charge-off, it should be relatively low on evaluation scale.
+- It is recommended that we retain low interest rates to recover the loans.
+- It is recommended to avoid giving loans for starting small businesses.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter Notebook
+- Seaborn 
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by UpGrad
+- This project was based on EDA on Lending Loan.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@spidy95] - feel free to contact me!
 
 
 <!-- Optional -->
